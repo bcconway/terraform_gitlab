@@ -4,6 +4,6 @@ terraform{
         region = "us-east-1"
         profile = "default"
         key = "terraformstatefile"
-        bucket = "terraformgitlabbucket"
+        bucket = "bc-tf-state-12345"
     }
 }
